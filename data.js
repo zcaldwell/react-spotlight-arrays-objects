@@ -17,4 +17,4 @@ export const brands = {
     logo: 'trefoil',
     headquarters: 'Herzogenaurach',
   },
-}
+};
